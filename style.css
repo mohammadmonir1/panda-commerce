@@ -38,3 +38,29 @@
 .categories img{
     width: 100px;
 }
+/* shoe Start Frim Here */
+.card{
+    border: none;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.bold{
+    font-weight: 600;
+}
+/*
+.card-footer{
+    border: none;
+    background-color: white;
+} */
+
+
+#contact{
+    height: 300px;
+}
+#contact h6{
+    color: gray;
+}
+footer{
+    text-align: center;
+    font-weight: 600;
+}
